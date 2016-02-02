@@ -38,7 +38,7 @@
             "expected": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send\u2026 https://ben.thatmustbe.me/note/2015/1/31/1/",
             "permalink": "https://ben.thatmustbe.me/note/2015/1/31/1/",
             "permashortlink": "http://btmb.me/s/6q",
-            "text": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send send webmentions manually may already be getting them. Look at the mentions on http://aaronparecki.com/articles/2015/01/22/1/why-not-json"
+            "text": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send webmentions manually may already be getting them. Look at the mentions on http://aaronparecki.com/articles/2015/01/22/1/why-not-json"
         },
         {
             "expected": "anybody have a wedding ring with the date engraved in ISO 8601? I\u2019ll be damned if I\u2019m going to wear mm.dd.yyyy anywhere on my person.",
@@ -91,14 +91,20 @@
         {
             "expected": "The Article Title: http://example.com/article",
             "permalink": "http://example.com/article",
-            "format_as_title": true,
+            "format": "article",
             "text": "The Article Title"
         },
         {
             "expected": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully\u2026 https://example.org/article",
             "permalink": "https://example.org/article",
-            "format_as_title": true,
+            "format": "article",
             "text": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully Frustrating; How About You?"
+        },
+        {
+            "text": "It needs evaluation, so let the games begin. A heinous crime, a show of force, a murder would be nice of course. Bad Horse! Bad Horse!",
+            "expected": "It needs evaluation, so let the games begin. A heinous crime, a show of force, a murder\u2026 http://example.com/badhorse",
+            "permalink": "http://example.com/badhorse",
+            "format": "note+media"
         }
     ]
 }
