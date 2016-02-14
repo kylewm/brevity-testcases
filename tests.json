@@ -105,6 +105,11 @@
             "expected": "It needs evaluation, so let the games begin. A heinous crime, a show of force, a murder\u2026 http://example.com/badhorse",
             "permalink": "http://example.com/badhorse",
             "format": "note+media"
+        },
+        {
+            "text": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
+            "expected": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
+            "permalink": "https://aaronparecki.com/2016/02/13/19/"
         }
     ]
 }
