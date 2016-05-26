@@ -15,6 +15,10 @@
         {
             "expected": "a matched parenthesis: <a class=\"auto-link\" href=\"http://wikipedia.org/Python_(programming_language)\">http://wikipedia.org/Python_(programming_language)</a> and (an unmatched parenthesis <a class=\"auto-link\" href=\"https://en.wikipedia.org/wiki/Guido_van_Rossum\">https://en.wikipedia.org/wiki/Guido_van_Rossum</a>)",
             "text": "a matched parenthesis: http://wikipedia.org/Python_(programming_language) and (an unmatched parenthesis https://en.wikipedia.org/wiki/Guido_van_Rossum)"
+        },
+        {
+            "expected": "heh, yes, I blew up the IRC channel too (<a class=\"auto-link\" href=\"http://indiewebcamp.com/irc/2016-05-23#t1464013757599\">http://indiewebcamp.com/irc/2016-05-23#t1464013757599</a>); sorry about that!",
+            "text": "heh, yes, I blew up the IRC channel too (http://indiewebcamp.com/irc/2016-05-23#t1464013757599); sorry about that!"
         }
     ],
     "shorten": [
