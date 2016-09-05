@@ -74,6 +74,11 @@
             "comment": "test case-insensitive link matching"
         },
         {
+            "text": "Leaving this here for future reference. Turn on debug menu in Mac App Store `defaults write com.apple.appstore ShowDebugMenu -bool true`",
+            "expected": "Leaving this here for future reference. Turn on debug menu in Mac App Store `defaults write com.apple.appstore ShowDebugMenu\u2026",
+            "comment": "com.apple should match as a domain name before the period"
+        },
+        {
             "text": "url http://foo.co/bar ellipsize http://foo.co/baz",
             "target_length": 20,
             "link_length": 5,
