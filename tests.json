@@ -110,26 +110,9 @@
             "text": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully Frustrating; How About You?"
         },
         {
-            "expected": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and It Also Contains A\u2026 https://example.org/article",
-            "permalink": "https://example.org/article",
-            "format": "article+media",
-            "text": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and It Also Contains A Photo Which Makes Things Even More Complicated"
-        },
-        {
-            "text": "It needs evaluation, so let the games begin. A heinous crime, a show of force, a murder would be nice of course. Bad Horse! Bad Horse!",
-            "expected": "It needs evaluation, so let the games begin. A heinous crime, a show of force, a murder\u2026 http://example.com/badhorse",
-            "permalink": "http://example.com/badhorse",
-            "format": "note+media"
-        },
-        {
             "text": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
             "expected": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
             "permalink": "https://aaronparecki.com/2016/02/13/19/"
-        },
-        {
-            "format": "note+media",
-            "text": "schon nach 40 minuten fast 20 mal so viele leser per #instantarticles gehabt, wie in 6 monaten per #amphtml-artikeln.",
-            "expected": "schon nach 40 minuten fast 20 mal so viele leser per #instantarticles gehabt, wie in 6 monaten per\u2026"
         }
     ]
 }
