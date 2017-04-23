@@ -19,6 +19,18 @@
         {
             "expected": "heh, yes, I blew up the IRC channel too (<a class=\"auto-link\" href=\"http://indiewebcamp.com/irc/2016-05-23#t1464013757599\">http://indiewebcamp.com/irc/2016-05-23#t1464013757599</a>); sorry about that!",
             "text": "heh, yes, I blew up the IRC channel too (http://indiewebcamp.com/irc/2016-05-23#t1464013757599); sorry about that!"
+        },
+        {
+          "expected": "There's an error in /var/www/doubleloop.net/public_html/xyz.php",
+          "text": "There's an error in /var/www/doubleloop.net/public_html/xyz.php"
+        },
+        {
+          "expected": "Send questions to help@woodwind.xyz/or help@silo.pub",
+          "text": "Send questions to help@woodwind.xyz/or help@silo.pub"
+        },
+        {
+          "expected": "A URL that starts with an #octothorpe.com a $dollarsign.org an _underscore.net a -dash.com or a .decimalpoint.gov is not a URL at all",
+          "text": "A URL that starts with an #octothorpe.com a $dollarsign.org an _underscore.net a -dash.com or a .decimalpoint.gov is not a URL at all"
         }
     ],
     "shorten": [
