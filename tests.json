@@ -38,61 +38,72 @@
             "permashortcitation": "ttk.me t4_93",
             "permalink": "http://tantek.com/2015/014/t3/rel-tag-succeeded-web-html-specs",
             "expected": "Despite Technorati dumping tag & blog search long ago, rel-tag succeeded on web, in #HTML spec https://html.spec.whatwg.org/multipage/semantics.html#linkTypes (ttk.me t4_93)",
-            "text": "Despite Technorati dumping tag & blog search long ago, rel-tag succeeded on web, in #HTML spec https://html.spec.whatwg.org/multipage/semantics.html#linkTypes"
+            "text": "Despite Technorati dumping tag & blog search long ago, rel-tag succeeded on web, in #HTML spec https://html.spec.whatwg.org/multipage/semantics.html#linkTypes",
+            "target_length": 140
         },
         {
             "permashortcitation": "ttk.me t4_81",
             "permalink": "http://tantek.com/2015/013/t1/names-ind-ie-indie-vc-not-indieweb",
             "expected": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\nindiewebcamp.com/2014-review#Indie_Term_Re-use\n@iainspad @sashtown @thomatronic (ttk.me t4_81)",
-            "text": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\nindiewebcamp.com/2014-review#Indie_Term_Re-use\n@iainspad @sashtown @thomatronic"
+            "text": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\nindiewebcamp.com/2014-review#Indie_Term_Re-use\n@iainspad @sashtown @thomatronic",
+            "target_length": 140
         },
         {
             "expected": "Si H\u00e4ren Engel duurch all, Haus Benn d\u00e9 blo, am wuel Kolrettchen Nuechtegall d\u00e9n. Nun en sch\u00e9i Milliounen, an wee drem d'Welt, do Ierd bl\u00e9nk",
-            "text": "Si H\u00e4ren Engel duurch all, Haus Benn d\u00e9 blo, am wuel Kolrettchen Nuechtegall d\u00e9n. Nun en sch\u00e9i Milliounen, an wee drem d'Welt, do Ierd bl\u00e9nk"
+            "text": "Si H\u00e4ren Engel duurch all, Haus Benn d\u00e9 blo, am wuel Kolrettchen Nuechtegall d\u00e9n. Nun en sch\u00e9i Milliounen, an wee drem d'Welt, do Ierd bl\u00e9nk",
+            "target_length": 140
         },
         {
             "expected": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send\u2026 https://ben.thatmustbe.me/note/2015/1/31/1/",
             "permalink": "https://ben.thatmustbe.me/note/2015/1/31/1/",
             "permashortlink": "http://btmb.me/s/6q",
-            "text": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send webmentions manually may already be getting them. Look at the mentions on http://aaronparecki.com/articles/2015/01/22/1/why-not-json"
+            "text": "Hey #indieweb, the coming storm of webmention Spam may not be far away. Those of us that have input fields to send webmentions manually may already be getting them. Look at the mentions on http://aaronparecki.com/articles/2015/01/22/1/why-not-json",
+            "target_length": 140
         },
         {
             "expected": "anybody have a wedding ring with the date engraved in ISO 8601? I\u2019ll be damned if I\u2019m going to wear mm.dd.yyyy anywhere on my person.",
             "permalink": "https://kylewm.com/2015/05/anybody-have-a-wedding-ring-with-the-date-engraved",
-            "text": "anybody have a wedding ring with the date engraved in ISO 8601? I\u2019ll be damned if I\u2019m going to wear mm.dd.yyyy anywhere on my person."
+            "text": "anybody have a wedding ring with the date engraved in ISO 8601? I\u2019ll be damned if I\u2019m going to wear mm.dd.yyyy anywhere on my person.",
+            "target_length": 140
         },
         {
             "expected": "ix freue mich auf die nebenan.hamburg morgen. ich spreche auch ne halbe stunde \u00fcbers #indieweb und\u2026 http://wirres.net/article/articleview/7773/1/6/",
             "permalink": "http://wirres.net/article/articleview/7773/1/6/",
             "permashortlink": "http://wirres.net/7773",
-            "text": "ix freue mich auf die nebenan.hamburg morgen. ich spreche auch ne halbe stunde \u00fcbers #indieweb und @reclaim_fm."
+            "text": "ix freue mich auf die nebenan.hamburg morgen. ich spreche auch ne halbe stunde \u00fcbers #indieweb und @reclaim_fm.",
+            "target_length": 140
         },
         {
             "expected": "@davewiner I stubbed a page on the wiki for https://indiewebcamp.com/River4. Edits/improvmnts from users are welcome! @kevinmarks @julien51 @aaronpk",
-            "text": "@davewiner I stubbed a page on the wiki for https://indiewebcamp.com/River4. Edits/improvmnts from users are welcome! @kevinmarks @julien51 @aaronpk"
+            "text": "@davewiner I stubbed a page on the wiki for https://indiewebcamp.com/River4. Edits/improvmnts from users are welcome! @kevinmarks @julien51 @aaronpk",
+            "target_length": 140
         },
         {
             "expected": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), a url with a query string;foo.withknown.com/example?query=parameters",
-            "text": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), a url with a query string;foo.withknown.com/example?query=parameters"
+            "text": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), a url with a query string;foo.withknown.com/example?query=parameters",
+            "target_length": 140
         },
         {
             "expected": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long:\u2026",
-            "text": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long:foo.withknown.com/example?query=parameters"
+            "text": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long:foo.withknown.com/example?query=parameters",
+            "target_length": 140
         },
         {
             "expected": "The Telegram Bot API is the best bot API ever. Everyone should learn from it, especially Matrix.org\u2026 https://unrelenting.technology/notes/2015-09-05-00-35-13",
             "permalink": "https://unrelenting.technology/notes/2015-09-05-00-35-13",
             "text": "The Telegram Bot API is the best bot API ever. Everyone should learn from it, especially Matrix.org, which currently requires a particular URL structure and registration files.",
-            "comment": "test case-insensitive link matching"
+            "comment": "test case-insensitive link matching",
+            "target_length": 140
         },
         {
             "text": "Leaving this here for future reference. Turn on debug menu in Mac App Store `defaults write com.apple.appstore ShowDebugMenu -bool true`",
             "expected": "Leaving this here for future reference. Turn on debug menu in Mac App Store `defaults write com.apple.appstore ShowDebugMenu\u2026",
-            "comment": "com.apple should match as a domain name before the period"
+            "comment": "com.apple should match as a domain name before the period",
+            "target_length": 140
         },
         {
             "text": "url http://foo.co/bar ellipsize http://foo.co/baz",
-            "target_length": 20,
+            "target_length": 21,
             "link_length": 5,
             "expected": "url http://foo.co/bar ellipsize\u2026"
         },
@@ -119,16 +130,24 @@
             "expected": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully\u2026 https://example.org/article",
             "permalink": "https://example.org/article",
             "format": "article",
-            "text": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully Frustrating; How About You?"
+            "text": "The Article Title is Longer Than Will Fit in Just One Single Tweet, and I Find This Situation to be Awfully Frustrating; How About You?",
+            "target_length": 140
         },
         {
             "text": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
             "expected": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
-            "permalink": "https://aaronparecki.com/2016/02/13/19/"
+            "permalink": "https://aaronparecki.com/2016/02/13/19/",
+            "target_length": 140
         },
         {
-          "text": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-          "expected": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\u2026"
+          "text": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+          "expected": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\u2026"
+        },
+        {
+            "expected": "\u74e9 three \u2318 weighted \ud834\uf4f7\u2026",
+            "text": "\u74e9 three \u2318 weighted \ud834\uf4f7 chars",
+            "target_length": 27,
+            "comment": "new weighted twitter char counting for 280 char limit. https://developer.twitter.com/en/docs/developer-utilities/twitter-text . note that the third unicode char is outside the basic multilingual plane, so it encodes as four bytes (at least in UTF-16) and two python 2 chars. more details: https://stackoverflow.com/a/42422325/186123"
         }
     ]
 }
