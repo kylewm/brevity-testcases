@@ -44,7 +44,7 @@
         {
             "permashortcitation": "ttk.me t4_81",
             "permalink": "http://tantek.com/2015/013/t1/names-ind-ie-indie-vc-not-indieweb",
-            "expected": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\nindiewebcamp.com/2014-review#Indie_Term_Re-use\n@iainspad @sashtown @thomatronic (ttk.me t4_81)",
+            "expected": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\u2026 http://tantek.com/2015/013/t1/names-ind-ie-indie-vc-not-indieweb",
             "text": "Despite names,\nind.ie&indie.vc are NOT #indieweb @indiewebcamp\nindiewebcamp.com/2014-review#Indie_Term_Re-use\n@iainspad @sashtown @thomatronic",
             "target_length": 140
         },
@@ -84,7 +84,7 @@
             "target_length": 140
         },
         {
-            "expected": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long:\u2026",
+            "expected": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long\u2026",
             "text": "This is a long tweet with (foo.com/parenthesized-urls) and urls that wikipedia.org/Contain_(Parentheses), that is one charc too long:foo.withknown.com/example?query=parameters",
             "target_length": 140
         },
@@ -135,7 +135,7 @@
         },
         {
             "text": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
-            "expected": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io: https://aaronparecki.com/2016/02/13/18/ #ownyourdata #indieweb",
+            "expected": "I wrote some words about why I migrated away from Gitlab and Bitbucket to Gogs.io\u2026 https://aaronparecki.com/2016/02/13/19/",
             "permalink": "https://aaronparecki.com/2016/02/13/19/",
             "target_length": 140
         },
