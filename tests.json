@@ -164,6 +164,18 @@
             "text": "word word word word",
             "target_length": 18,
             "ellipsis": "DONE"
+        },
+        {
+            "expected": "foo http://w.co/bar baz",
+            "text": "foo http://w.co/bar baz",
+            "target_length": 30,
+            "link_length": null
+        },
+        {
+            "expected": "foo http://w.co/bar\u2026",
+            "text": "foo http://w.co/bar baz",
+            "target_length": 22,
+            "link_length": null
         }
     ]
 }
