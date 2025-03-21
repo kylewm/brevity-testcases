@@ -182,6 +182,13 @@
             "text": "\u7279\u5b9a\u306e\u5206\u91ce\u3067\u9762\u767d\u3044\u52d5\u753b\u306e\u6570\u306f\u6709\u9650\u306a\u306e\u3067",
             "target_length": 10,
             "weights": false
+        },
+        {
+            "expected": "\u7279\u5b9a\u306e\u5206\u91ce\u3067\u9762\u767d\u3044\u52d5\u753b\u306e\u6570\u306f\u6709\u9650\u306a\u306e\u3067…",
+            "text": "\u7279\u5b9a\u306e\u5206\u91ce\u3067\u9762\u767d\u3044\u52d5\u753b\u306e\u6570\u306f\u6709\u9650\u306a\u306e\u3067\u5e7e\u3064\u304b\u8a66\u8074\u3059\u308c\u3070\u6d88\u8cbb\u3057\u5207",
+            "target_length": 20,
+            "lang": "ja",
+            "weights": false
         }
     ]
 }
